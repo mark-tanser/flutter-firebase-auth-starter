@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "80377656078",
+    "project_id": "fir-authlogins-8345e",
+    "storage_bucket": "fir-authlogins-8345e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:80377656078:android:c548f3c1e3301758c75d5f",
+        "android_client_info": {
+          "package_name": "com.example.firebase_auth_logins"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "80377656078-flqr2rs1psrsosjjrf5n1qvomrujr6l4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtCC3upjY7W0-6wLga-FqxrcE_hjYh58s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "80377656078-flqr2rs1psrsosjjrf5n1qvomrujr6l4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "80377656078-sgpckg7us5dmhvv9qn6rjkt2455fjekd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.firebaseAuthLogins"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
